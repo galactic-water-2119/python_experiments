@@ -1,3 +1,7 @@
+# it will create int arraylist 
+X = [int(x) for x in input().split()]
+
+
 #it will map input values to n and q using map function
 n, q = map(int, input().split())
 print({} is n and {} is q.format(n,q))
