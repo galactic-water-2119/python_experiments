@@ -12,7 +12,7 @@ print(n,q)
 #it will put and map input elements to a list
 x = list(map(int, input().split()))
 print(x)
-print({} is a list first value.format(x[0]))
+print("{} is".format(x[0]))
 
 
 
